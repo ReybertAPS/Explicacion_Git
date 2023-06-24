@@ -1,0 +1,5 @@
+git checkout -b [NOMBRE_RAMA] --> Este es para crear una rama y ubicarte en ella.
+git checkout [NOMBRE_RAMA] --> Este es para ubicarse en una rama ya existente.
+git add . --> Para establecer que los cambios que hice van a ir en la confirmación (añadirlos al STAGE / Pre confirmación).
+git commit -m "comentario de mi commit" --> Para hacer la confirmación de todos los cambios que se hicieron y se habían añadido con git add .
+git push --> Para mandar los commits al repositorio (azure devOps, hitHub, GitLab, Bitbucker, etc).
